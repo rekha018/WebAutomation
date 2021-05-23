@@ -4,7 +4,7 @@ Automation tests for Login and Search functionality.
 
 ## Prerequisite
 
-Replace webDriverPath defined LoginAndSearch class with your web driver path.
+Replace webDriverPath defined in LoginAndSearch class with your web driver path.
 Example: String webDriverPath = "E:\\folder-name\\chromedriver.exe"
 
 ## Test Scenarios
@@ -13,17 +13,21 @@ Example: String webDriverPath = "E:\\folder-name\\chromedriver.exe"
 
 3. Verify search functionality for hammer
 
-## Tools used
+## Techstack used
 
+* Windows OS
 * Eclipse IDE
 * Selenium WebDriver
-* Chrome browser and chrome driver
-
-
-## Tech/framework used
-
+* Chrome browser and Chrome Driver
 * Java
 * Maven
+* TestNG
 
 ## Clone
 Clone this repo using [WebAutomation](https://github.com/rekha018/WebAutomation.git)
+
+## How to run project
+Import project into eclipse
+Right click on project > Maven > Update project
+Clean and build project
+Right click on src/test/java > Run As > TestNG Test

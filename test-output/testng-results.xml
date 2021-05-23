@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15075" started-at="2021-05-23T20:41:26Z" finished-at="2021-05-23T20:41:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15075" started-at="2021-05-23T20:41:26Z" finished-at="2021-05-23T20:41:41Z">
+      <class name="testCases.LoginAndSearch">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.LoginAndSearch@3ffc5af1]" name="setUp" is-config="true" duration-ms="2900" started-at="2021-05-23T20:41:26Z" finished-at="2021-05-23T20:41:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="main()[pri:0, instance:testCases.LoginAndSearch@3ffc5af1]" name="main" duration-ms="11486" started-at="2021-05-23T20:41:29Z" finished-at="2021-05-23T20:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="tearDown34()[pri:0, instance:testCases.LoginAndSearch@3ffc5af1]" name="tearDown34" is-config="true" duration-ms="672" started-at="2021-05-23T20:41:40Z" finished-at="2021-05-23T20:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown34 -->
+      </class> <!-- testCases.LoginAndSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
